@@ -19,4 +19,5 @@ Fraud detection still requires data analysts to dectect anomolies in digital/mon
 
 ### Data Modeling
 
+
 ### Data Analysis
